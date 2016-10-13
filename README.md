@@ -9,7 +9,7 @@ For the backend check Myanmasara-RESTful.
 
 ## Preview
 
-http://www.ponkys.com/wp-content/uploads/2016/10/Screen-Shot-2016-10-13-at-4.27.59-PM.png
+![ Screenshot](http://www.ponkys.com/wp-content/uploads/2016/10/Screen-Shot-2016-10-13-at-4.27.59-PM.png)
 
 http://www.ponkys.com/wp-content/uploads/2016/10/Screen-Shot-2016-10-13-at-4.28.12-PM.png
 
