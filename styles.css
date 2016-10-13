@@ -1,0 +1,40 @@
+/*$white: rgba(#ffffff, 0.9);
+$red: #ff1d14;
+$dark: #3c3d3c;
+$pink: #ed145b;
+$yellow: #f6ff04;
+$light: #EDEFF5;
+
+.image-wrapper{
+                position: absolute;
+                left: 25%;
+                z-index: -1;
+                top: 0%;
+            }
+			*/
+
+.wrapper_wide {
+	width: 90%;
+	margin: 0 auto;
+}
+
+.wrapper_skinny {
+	width: 50%;
+	margin: 0 auto;
+}
+
+.wrapper {
+	width: 80%;
+	margin: 0 auto;
+}
+
+
+.cf:before, .cf:after {
+	content: " ";
+	display: table;
+}
+
+.cf:after {
+	clear: both;
+}
+
