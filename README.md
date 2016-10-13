@@ -8,14 +8,14 @@ Currently Working with RESTful api.
 For the backend check Myanmasara-RESTful.
 
 ## Preview
-
+###Home
 ![ Screenshot](http://www.ponkys.com/wp-content/uploads/2016/10/Screen-Shot-2016-10-13-at-4.27.59-PM.png)
-
-http://www.ponkys.com/wp-content/uploads/2016/10/Screen-Shot-2016-10-13-at-4.28.12-PM.png
-
-http://www.ponkys.com/wp-content/uploads/2016/10/Screen-Shot-2016-10-13-at-4.28.20-PM.png
-
-http://www.ponkys.com/wp-content/uploads/2016/10/Screen-Shot-2016-10-13-at-4.28.28-PM.png
-
-http://www.ponkys.com/wp-content/uploads/2016/10/Screen-Shot-2016-10-13-at-4.28.38-PM.png
+###Post
+! [Screenshot2](http://www.ponkys.com/wp-content/uploads/2016/10/Screen-Shot-2016-10-13-at-4.28.12-PM.png)
+###Burmese Post
+! [Screenshot3](http://www.ponkys.com/wp-content/uploads/2016/10/Screen-Shot-2016-10-13-at-4.28.20-PM.png)
+###Team
+! [Screenshot4](http://www.ponkys.com/wp-content/uploads/2016/10/Screen-Shot-2016-10-13-at-4.28.28-PM.png)
+###Team Detail
+! [Screenshot5](http://www.ponkys.com/wp-content/uploads/2016/10/Screen-Shot-2016-10-13-at-4.28.38-PM.png)
 
