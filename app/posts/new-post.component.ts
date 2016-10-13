@@ -9,7 +9,6 @@ import { MD_INPUT_DIRECTIVES } from '@angular2-material/input';
     template: `
         <div class="center col-7 col-m-11">
             <h1 class="title">New Post<h1>
-            <pre>{{f | json }}</pre>
             <form #f="ngForm" novalidate>
                 <div>
                     <label>Title</label>
@@ -59,6 +58,7 @@ export class NewPostComponent implements OnInit {
 
     ngOnInit() { 
         this.post = {
+        _id: '',
         _author: '',
         title: '',
         burmeseTitle: '',
